@@ -56,3 +56,5 @@ clear.place(x=200,y=250)
 exit = Button(root,text="Exit",font=('verdana',10,'bold'),relief=RIDGE,borderwidth=2,command=exit)
 exit.place(x=260,y=250)
 root.mainloop()
+
+# Need to add the image given to run the code 
